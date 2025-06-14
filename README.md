@@ -48,7 +48,6 @@ This project is a fully functional **Rock-Paper-Scissors** game built using **HT
 ---
 
 ## 📁 Project Structure
-│
 ├── index.html → Main HTML structure
 ├── style.css → CSS styles for layout and animations
 ├── script.js → JavaScript logic for the game
