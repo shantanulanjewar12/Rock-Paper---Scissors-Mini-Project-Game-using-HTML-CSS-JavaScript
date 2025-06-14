@@ -37,15 +37,25 @@ This project is a fully functional **Rock-Paper-Scissors** game built using **HT
 ## 📸 Screenshots
 
 ### 🏠 Homepage (Before Game Starts)
-![Homepage](./screenshot1.png)
+![Homepage](./Screenshot1.png)
 
 ### ✊ Player Selected Rock — Game In Progress
-![In Game](./screenshot2.png)
+![In Game](./Screenshot2.png)
 
 ### 🏆 Winning Message Displayed
-![Win Screen](./screenshot3.png)
+![Win Screen](./Screenshot3.png)
 
 ---
 
 ## 📁 Project Structure
+│
+├── index.html → Main HTML structure
+├── style.css → CSS styles for layout and animations
+├── script.js → JavaScript logic for the game
+├── README.md → Project description and documentation
+├── demoRec.mp4 → Gameplay demo video
+├── Screenshot1.png → Homepage screenshot
+├── Screenshot2.png → Game in progress screenshot
+├── Screenshot3.png → Win result screenshot
+└── images/ → (Optional folder for additional images if used)
 
