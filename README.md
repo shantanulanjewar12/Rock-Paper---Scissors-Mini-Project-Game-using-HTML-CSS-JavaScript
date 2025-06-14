@@ -27,22 +27,23 @@ This project is a fully functional **Rock-Paper-Scissors** game built using **HT
 
 ---
 
+
 ## 📽️ Demo Video
 
-[🎬 Click here to watch the demo video](./assets/demoRec.mp4)
+[🎬 Click here to watch the demo video](./demoRec.mp4)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Homepage (Before Game Starts)
-![Homepage](./assets/screenshot-home.png)
+![Homepage](./screenshot1.png)
 
 ### ✊ Player Selected Rock — Game In Progress
-![In Game](./assets/screenshot-play.png)
+![In Game](./screenshot2.png)
 
 ### 🏆 Winning Message Displayed
-![Win Screen](./assets/screenshot-win.png)
+![Win Screen](./screenshot3.png)
 
 ---
 
