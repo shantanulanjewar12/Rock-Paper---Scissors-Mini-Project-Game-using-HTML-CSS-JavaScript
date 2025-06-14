@@ -1,41 +1,50 @@
-<!-- PROJECT TITLE -->
-# 🪨✂️ Rock‑Paper‑Scissors – Mini Web Game
+# Rock-Paper-Scissors Mini Project Game using HTML, CSS & JavaScript
 
-<p align="center">
-  <!-- Demo video or GIF -->
-  <a href="assets/demoRec.mp4">
-    <img src="assets/demoRec-thumbnail.png" alt="Click to watch the demo" />
-  </a>
-</p>
-
-A **lightweight, beginner‑friendly Rock‑Paper‑Scissors game** built with **HTML, CSS, and vanilla JavaScript**.  
-Play against the computer, track your score in real‑time, and enjoy a crisp, responsive interface that works on any screen size.
+This project is a fully functional **Rock-Paper-Scissors** game built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. It features a sleek and responsive user interface, real-time score updates, and engaging visuals. Ideal for beginners to intermediate developers looking to practice core front-end skills and basic game logic.
 
 ---
 
-## ✨ Features
-
-|  |  |
-|--|--|
-| 🎮 &nbsp;Classic gameplay | Rock beats Scissors, Scissors beats Paper, Paper beats Rock – simple and timeless. |
-| ⚙️ &nbsp;Pure front‑end stack | No frameworks or build tools needed; just open `index.html` and play. |
-| 📈 &nbsp;Live score counter | See your points and the computer’s score update after each round. |
-| 🎨 &nbsp;Polished UI | Colored icons with subtle hover/active states and smooth transitions. |
-| 📱 &nbsp;Responsive design | Looks and feels great on mobile, tablet, and desktop. |
+### 🎮 Classic Game Mechanics:
+- Choose between Rock 🪨, Paper 📄, or Scissors ✂️.
+- The computer selects its move randomly.
+- Scores are updated live on each round.
+- A result message displays who won or if it’s a draw.
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="assets/screenshot-home.png"  width="250" alt="Home Screen">
-  &nbsp;
-  <img src="assets/screenshot-play.png"  width="250" alt="During Play">
-  &nbsp;
-  <img src="assets/screenshot-win.png"   width="250" alt="Win Screen">
-</p>
+### 💡 Frontend + Logic:
+- Built with HTML/CSS for structure and styling.
+- JavaScript handles game logic, randomization, score tracking, and DOM manipulation.
+- Uses event listeners for interactivity and dynamic UI changes.
 
 ---
 
-## 📂 Project Structure
+### 🎨 Modern UI Design:
+- Clean, minimal, and responsive design.
+- Smooth hover and click animations.
+- Highlights the selected move with borders.
+- Color-coded result message box for win/loss/draw feedback.
+
+---
+
+## 📽️ Demo Video
+
+[🎬 Click here to watch the demo video](./assets/demoRec.mp4)
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage (Before Game Starts)
+![Homepage](./assets/screenshot-home.png)
+
+### ✊ Player Selected Rock — Game In Progress
+![In Game](./assets/screenshot-play.png)
+
+### 🏆 Winning Message Displayed
+![Win Screen](./assets/screenshot-win.png)
+
+---
+
+## 📁 Project Structure
 
