@@ -31,8 +31,8 @@ This project is a fully functional **Rock-Paper-Scissors** game built using **HT
 ## 📽️ Demo Video
 
 [🎬 Click here to watch the demo video](./demoRec.mp4)
-
----
+[demoRec.mp4
+](https://github.com/shantanulanjewar12/Rock-Paper-Scissors-Mini-Project-Game-using-HTML-CSS-JavaScript/blob/d1f88458b4995e48aa8180bf6ce382e469b706af/demoRec.mp4)---
 
 ## 📸 Screenshots
 
